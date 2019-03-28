@@ -18,3 +18,4 @@ function estourar(elemento) {
 function iniciar() {
     setInterval(addBola,2000);
 }
+// Teste de Javascript
